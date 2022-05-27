@@ -6,4 +6,4 @@
 | ------------- | ------------- |
 
 ### Hello, I'm codeOflI 👋
-个人网站: https://codeOflI.github.io/
+个人网站: https://www.yestojudge.cn/
