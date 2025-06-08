@@ -35,6 +35,8 @@
 [![](https://img.shields.io/badge/-uv-292e33?style=flat-square&logo=uv&logoColor=green)](https://docs.astral.sh/uv/)
 [![](https://img.shields.io/badge/-Playwright-6DB33F?style=flat-square&logo=Playwright&logoColor=ffffff)](https://playwright.dev/python/)
 [![](https://img.shields.io/badge/-PySide-6DB33F?style=flat-square&logo=PySide&logoColor=ffffff)](https://wiki.qt.io/Qt_for_Python)
+[![](https://img.shields.io/badge/-Numpy-6DB33F?style=flat-square&logo=numpy&logoColor=wihte)](https://numpy.org/)
+[![](https://img.shields.io/badge/-pandas-6DB33F?style=flat-square&logo=pandas&logoColor=wihte)](https://pandas.pydata.org/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
