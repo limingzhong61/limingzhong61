@@ -25,12 +25,14 @@
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://spring.io/projects/spring-framework)
 [![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=ffffff)](https://spring.io/projects/spring-boot)
 [![](https://img.shields.io/badge/-MyBatis-6DB33F?style=flat-square&logo=Mybatis&logoColor=ffffff)](https://mybatis.org/mybatis-3/)
+[![](https://img.shields.io/badge/-Guava-6DB33F?style=flat-square&logo=Guava&logoColor=ffffff)](https://github.com/google/guava)
 [![](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=ffffff)](https://maven.apache.org/)
 [![](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=ffffff)](https://tomcat.apache.org/)
 
 
 [![](https://img.shields.io/badge/Python-292e33?style=flat-square&logo=python&logoColor=green)](https://www.python.org/)
 [![](https://img.shields.io/badge/FastAPI-292e33?style=flat-square&logo=fastapi&logoColor=green)](https://fastapi.tiangolo.com/)
+[![](https://img.shields.io/badge/-uv-6DB33F?style=flat-square&logo=uv&logoColor=ffffff)](https://docs.astral.sh/uv/)
 
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
