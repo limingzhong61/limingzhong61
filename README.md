@@ -20,6 +20,19 @@
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=ffffff)]([https://www.jetbrains.com/zh-cn/idea/)
 [![](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=ffffff)]([https://www.google.com/intl/zh-CN/chrome/)
 
+
+[![](https://img.shields.io/badge/-Java-6DB33F?style=flat-square&logo=Java&logoColor=ffffff)](https://www.java.com/zh-CN/)
+[![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://spring.io/projects/spring-framework)
+[![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=ffffff)](https://spring.io/projects/spring-boot)
+[![](https://img.shields.io/badge/-MyBatis-6DB33F?style=flat-square&logo=Mybatis&logoColor=ffffff)](https://mybatis.org/mybatis-3/)
+[![](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=ffffff)](https://maven.apache.org/)
+[![](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=ffffff)](https://tomcat.apache.org/)
+
+
+[![](https://img.shields.io/badge/Python-292e33?style=flat-square&logo=python&logoColor=green)](https://www.python.org/)
+[![](https://img.shields.io/badge/FastAPI-292e33?style=flat-square&logo=fastapi&logoColor=green)](https://fastapi.tiangolo.com/)
+
+
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
@@ -27,17 +40,12 @@
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 
-[![](https://img.shields.io/badge/-Java-6DB33F?style=flat-square&logo=Java&logoColor=ffffff)](https://www.java.com/zh-CN/)
-[![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)](https://spring.io/projects/spring-framework)
-[![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=ffffff)](https://spring.io/projects/spring-boot)
-[![](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=ffffff)](https://maven.apache.org/)
-[![](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=ffffff)](https://tomcat.apache.org/)
-
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/cn/)
 [![](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
 
 [![](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
+[![](https://img.shields.io/badge/-Kafka-6DB33F?style=flat-square&logo=Kafka&logoColor=ffffff)](https://kafka.apache.org/)
 [![](https://img.shields.io/badge/-Apache%20RocketMQ-D77310?style=flat-square&logo=Apache%20RocketMQ&logoColor=ffffff)](https://rocketmq.apache.org/)
 
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
