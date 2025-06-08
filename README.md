@@ -14,7 +14,7 @@
 
 **Languages and Skills**
 
-[![](https://img.shields.io/badge/macOS-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
+[![](https://img.shields.io/badge/-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=ffffff)]([https://www.jetbrains.com/zh-cn/idea/)
