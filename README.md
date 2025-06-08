@@ -6,6 +6,13 @@
 | ------------- | ------------- |
 
 ### Hello, I'm nicolas 👋
+
+main code language: Java Python JavaScript
+develop tools: 
+- Java: SpringBoot ...
+- Python: FastApi ...
+- JavaScript: Vue ...
+
 个人博客: https://limingzhong61.github.io/
 
 力扣网址: https://leetcode.cn/u/nicolas-2/
