@@ -32,7 +32,7 @@
 
 [![](https://img.shields.io/badge/Python-292e33?style=flat-square&logo=python&logoColor=green)](https://www.python.org/)
 [![](https://img.shields.io/badge/FastAPI-292e33?style=flat-square&logo=fastapi&logoColor=green)](https://fastapi.tiangolo.com/)
-[![](https://img.shields.io/badge/-uv-6DB33F?style=flat-square&logo=uv&logoColor=ffffff)](https://docs.astral.sh/uv/)
+[![](https://img.shields.io/badge/-uv-292e33?style=flat-square&logo=uv&logoColor=green)](https://docs.astral.sh/uv/)
 
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
