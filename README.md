@@ -12,7 +12,7 @@
 ### Brief Introduction
 - 📫 You can get in touch with me by email at [nicolaslee5@foxmail.com](nicolaslee5@foxmail.com)
 
-**Languages and Skills**
+### **Languages and Skills**
 
 [![](https://img.shields.io/badge/-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 
