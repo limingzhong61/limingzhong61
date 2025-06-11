@@ -27,7 +27,7 @@
 [![](https://img.shields.io/badge/-MyBatis-6DB33F?style=flat-square&logo=Mybatis&logoColor=ffffff)](https://mybatis.org/mybatis-3/)
 [![](https://img.shields.io/badge/-Guava-6DB33F?style=flat-square&logo=Guava&logoColor=ffffff)](https://github.com/google/guava)
 [![](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=ffffff)](https://maven.apache.org/)
-[![](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=ffffff)](https://tomcat.apache.org/)
+[![](https://img.shields.io/badge/-Apache%20Tomcat-292e33?style=flat-square&logo=Apache%20Tomcat&logoColor=yellow)](https://tomcat.apache.org/)
 
 
 [![](https://img.shields.io/badge/Python-292e33?style=flat-square&logo=python&logoColor=green)](https://www.python.org/)
