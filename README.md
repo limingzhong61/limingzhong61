@@ -9,13 +9,13 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=limingzhong61&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&include_all_commits=true&hide=contribs&count_private=true&theme=buefy&hide_border=true" alt="limingzhong61's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limingzhong61&layout=compact&theme=buefy&hide_border=true&hide=css,html" /></a> |
 | ------------- | ------------- |
 
-### Brief Introduction
+### 💫 About Me:
 - 📫 You can get in touch with me by email at [nicolaslee5@foxmail.com](nicolaslee5@foxmail.com)
 
- ###  🔨 I've contributed to
+### 🔨 I've contributed to
 
 [<img src="https://avatars.githubusercontent.com/u/192012301?s=48&amp;v=4" height="25px">](https://github.com/browser-use/browser-use) [browser-use](https://github.com/browser-use/browser-use)
-### **Languages and Skills**
+### 💻 Tech Stack:
 
 [![](https://img.shields.io/badge/-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 
