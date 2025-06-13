@@ -14,7 +14,7 @@
 
  ###  🔨 I've contributed to
 
-[<img src="https://avatars.githubusercontent.com/u/192012301?s=48&amp;v=4" height="50px">](https://github.com/browser-use/browser-use)
+[<img src="https://avatars.githubusercontent.com/u/192012301?s=48&amp;v=4" height="25px">](https://github.com/browser-use/browser-use) [browser-use](https://github.com/browser-use/browser-use)
 ### **Languages and Skills**
 
 [![](https://img.shields.io/badge/-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
