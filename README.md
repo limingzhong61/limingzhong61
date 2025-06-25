@@ -71,6 +71,6 @@
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=ffffff)](https://leetcode.cn/)
 
 
-个人博客: https://limingzhong61.github.io/
+personal blog: https://limingzhong61.github.io/
 
-力扣网址: https://leetcode.cn/u/nicolas-2/
+leetcode link: https://leetcode.cn/u/nicolas-2/
