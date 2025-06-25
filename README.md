@@ -73,4 +73,3 @@
 
 personal blog: https://limingzhong61.github.io/
 
-leetcode link: https://leetcode.cn/u/nicolas-2/
