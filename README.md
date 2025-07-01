@@ -71,6 +71,6 @@
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=ffffff)](https://leetcode.cn/)
 
 
-personal blog: https://limingzhong61.github.io/
-leetcode link: https://leetcode.cn/u/nicolas-2/
+- personal blog: https://limingzhong61.github.io/   
+- leetcode link: https://leetcode.cn/u/nicolas-2/
 
