@@ -10,7 +10,7 @@
 | ------------- | ------------- |
 
 ### 💫 About Me:
-- Backend Development Engineer(Java,Python), Web Reverse Engineer​​
+- Backend Development Engineer(Java, Python), Web Reverse Engineer​​
 - 📫 You can get in touch with me by email at [nicolaslee5@foxmail.com](nicolaslee5@foxmail.com)
 
 ### 🔨 I've contributed to
