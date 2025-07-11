@@ -25,23 +25,23 @@
 [![](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=ffffff)]([https://www.google.com/intl/zh-CN/chrome/)
 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring%20Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Spring%20Boot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F.svg?style=flat-square&logo=Spring%20Boot&logoColor=white)
 [![](https://img.shields.io/badge/-MyBatis-6DB33F?style=flat-square&logo=Mybatis&logoColor=ffffff)](https://mybatis.org/mybatis-3/)
 [![](https://img.shields.io/badge/-Guava-6DB33F?style=flat-square&logo=Guava&logoColor=ffffff)](https://github.com/google/guava)
 [![](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=ffffff)](https://maven.apache.org/)
 [![](https://img.shields.io/badge/-Apache%20Tomcat-292e33?style=flat-square&logo=Apache%20Tomcat&logoColor=yellow)](https://tomcat.apache.org/)
 
 
-[![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/FastAPI-292e33?style=flat-square&logo=fastapi&logoColor=green)](https://fastapi.tiangolo.com/)
 [![](https://img.shields.io/badge/-uv-292e33?style=flat-square&logo=uv&logoColor=green)](https://docs.astral.sh/uv/)
 [![](https://img.shields.io/badge/-Playwright-6DB33F?style=flat-square&logo=Playwright&logoColor=ffffff)](https://playwright.dev/python/)
 [![](https://img.shields.io/badge/-PySide-6DB33F?style=flat-square&logo=PySide&logoColor=ffffff)](https://wiki.qt.io/Qt_for_Python)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
