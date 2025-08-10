@@ -58,7 +58,6 @@
 
 [![](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
 [![](https://img.shields.io/badge/-Kafka-6DB33F?style=flat-square&logo=Kafka&logoColor=ffffff)](https://kafka.apache.org/)
-[![](https://img.shields.io/badge/-Apache%20RocketMQ-D77310?style=flat-square&logo=Apache%20RocketMQ&logoColor=ffffff)](https://rocketmq.apache.org/)
 
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=ffffff)](https://www.gnu.org/software/bash/)
