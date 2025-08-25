@@ -16,6 +16,7 @@
 ### 🔨 I've contributed to
 
 [<img src="https://avatars.githubusercontent.com/u/192012301?s=48&amp;v=4" height="25px">](https://github.com/browser-use/browser-use) [browser-use](https://github.com/browser-use/browser-use)
+[<img src="https://avatars.githubusercontent.com/u/10633817?s=48&v=4" height="25px">](https://github.com/xuxueli/xxl-job) [xxl-job](https://github.com/xuxueli/xxl-job)
 ### 💻 Tech Stack:
 
 [![](https://img.shields.io/badge/-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
