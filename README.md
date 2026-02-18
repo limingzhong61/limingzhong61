@@ -9,6 +9,31 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=limingzhong61&count_private=true&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&include_all_commits=true&hide=contribs&count_private=true&theme=buefy&hide_border=true" alt="limingzhong61's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limingzhong61&layout=compact&theme=buefy&hide_border=true&hide=css,html,vue,scss" /></a> |
 | ------------- | ------------- |
 
+
+
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
+
+<br/>
+
+
 ### 💫 About Me:
 - Backend Development Engineer(Java, Python), Web Reverse Engineer​​
 - 📫 You can get in touch with me by email at [nicolaslee5@foxmail.com](nicolaslee5@foxmail.com)
