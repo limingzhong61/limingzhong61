@@ -40,7 +40,7 @@ old github stats comment
 </a>
 </div>
 
-<br/>
+---
 
 
 ### 💫 About Me:
