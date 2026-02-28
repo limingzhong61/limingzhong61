@@ -19,16 +19,26 @@ old github stats comment
 
 
 
-
 <!-- Light Mode -->
 <div align="center"> 
+    
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=limingzhong61&show_icons=true" />
+</a>
+
+</div>
+
+
+
+
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Mingzhong Li's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="Mingzhong Li's Github stats" />
 </a>
-</div>
+-->
 
 <!-- Dark Mode -->
 <div align="center"> 
